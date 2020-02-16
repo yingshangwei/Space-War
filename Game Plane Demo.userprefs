@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player\Player.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Bullet\Bullet_1.cs" Line="16" Column="16" />
+      <File FileName="Assets\Scripts\Bullet\Bullet_2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bullet\Bullet_3.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\Player.cs" Line="78" Column="5" />
+      <File FileName="Assets\Scripts\Enemy\Enemy_5.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy\Enemy_4.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bullet\Bullet_4.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bullet\Bullet_5.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy\CreatEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy\Enemy_1.cs" Line="41" Column="52" />
+      <File FileName="Assets\Scripts\Enemy\Enemy_2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy\Enemy_3.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
